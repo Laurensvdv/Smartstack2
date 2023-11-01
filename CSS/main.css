@@ -1,0 +1,32 @@
+@import url(https://fonts.googleapis.com/css2?family=Titillium+Web);
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css");
+
+body {
+  font-family: "Titillium Web", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+  color: white;
+  text-shadow: 2px 2px green;
+}
+.container {
+  width: 90%;
+  padding: 1rem;
+  background-color: brown;
+}
+.mw-400 {
+  max-width: 400;
+}
+#hoofdtitel {
+  color: white;
+  text-shadow: 2px 2px green;
+  text-align: center;
+  font-size: 3rem;
+}
+th{
+  margin: 1rem;
+  background-color: darkgray;
+  color: black;
+}
+.align-right{
+  text-align: end;
+}
